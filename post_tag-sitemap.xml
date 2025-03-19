@@ -1,67 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://forgetalgebra.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/tag/credit-cards/</loc>
+		<loc>https://forgetalgebra.com/tag/credit-cards/</loc>
 		<lastmod>2021-03-31T22:45:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/debit-cards/</loc>
+		<loc>https://forgetalgebra.com/tag/debit-cards/</loc>
 		<lastmod>2021-02-27T19:18:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/freelancing/</loc>
+		<loc>https://forgetalgebra.com/tag/freelancing/</loc>
 		<lastmod>2021-03-10T20:46:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/freelancing-beginner/</loc>
+		<loc>https://forgetalgebra.com/tag/freelancing-beginner/</loc>
 		<lastmod>2021-03-10T20:46:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/freelancing-guide/</loc>
+		<loc>https://forgetalgebra.com/tag/freelancing-guide/</loc>
 		<lastmod>2021-03-10T20:46:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/guides/</loc>
+		<loc>https://forgetalgebra.com/tag/guides/</loc>
 		<lastmod>2021-03-01T00:57:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/how-to-apply/</loc>
+		<loc>https://forgetalgebra.com/tag/how-to-apply/</loc>
 		<lastmod>2021-02-23T00:13:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/how-to-freelance/</loc>
+		<loc>https://forgetalgebra.com/tag/how-to-freelance/</loc>
 		<lastmod>2021-03-10T20:46:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/how-to-invest/</loc>
+		<loc>https://forgetalgebra.com/tag/how-to-invest/</loc>
 		<lastmod>2021-02-27T19:15:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/investing/</loc>
+		<loc>https://forgetalgebra.com/tag/investing/</loc>
 		<lastmod>2021-02-27T19:15:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/job-applications/</loc>
+		<loc>https://forgetalgebra.com/tag/job-applications/</loc>
 		<lastmod>2021-03-10T20:41:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/networking/</loc>
+		<loc>https://forgetalgebra.com/tag/networking/</loc>
 		<lastmod>2021-02-23T00:13:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/personal-finance/</loc>
+		<loc>https://forgetalgebra.com/tag/personal-finance/</loc>
 		<lastmod>2021-03-31T22:45:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/resume/</loc>
+		<loc>https://forgetalgebra.com/tag/resume/</loc>
 		<lastmod>2021-03-01T00:57:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/stock-market/</loc>
+		<loc>https://forgetalgebra.com/tag/stock-market/</loc>
 		<lastmod>2021-02-27T19:15:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/work-from-home/</loc>
+		<loc>https://forgetalgebra.com/tag/work-from-home/</loc>
 		<lastmod>2021-02-23T00:12:24+00:00</lastmod>
 	</url>
 </urlset>

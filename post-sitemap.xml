@@ -1,120 +1,120 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://forgetalgebra.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/blog/</loc>
+		<loc>https://forgetalgebra.com/blog/</loc>
 		<lastmod>2021-04-19T22:55:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2021/02/27/the-truth-about-freelancing/</loc>
+		<loc>https://forgetalgebra.com/2021/02/27/the-truth-about-freelancing/</loc>
 		<lastmod>2021-02-27T14:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_Freelancer_re_irh4.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_Freelancer_re_irh4.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_Freelancer_re_irh4-1.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_Freelancer_re_irh4-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2021/02/27/stop-applying-start-networking/</loc>
+		<loc>https://forgetalgebra.com/2021/02/27/stop-applying-start-networking/</loc>
 		<lastmod>2021-02-27T14:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_Co_workers_re_1i6i.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_Co_workers_re_1i6i.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_Co_workers_re_1i6i.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_Co_workers_re_1i6i.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2021/02/27/my-investing-journey/</loc>
+		<loc>https://forgetalgebra.com/2021/02/27/my-investing-journey/</loc>
 		<lastmod>2021-02-27T19:15:13+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_Ride_a_bicycle_2yok.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_Ride_a_bicycle_2yok.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_Ride_a_bicycle_2yok.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_Ride_a_bicycle_2yok.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2021/02/27/3-rules-to-beat-credit-card-companies/</loc>
+		<loc>https://forgetalgebra.com/2021/02/27/3-rules-to-beat-credit-card-companies/</loc>
 		<lastmod>2021-02-27T19:18:27+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_credit_card_payment_yb88-1.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_credit_card_payment_yb88-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_credit_card_payment_yb88-1.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_credit_card_payment_yb88-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2021/02/27/the-simple-resume-trick-i-wish-i-learned-in-high-school/</loc>
+		<loc>https://forgetalgebra.com/2021/02/27/the-simple-resume-trick-i-wish-i-learned-in-high-school/</loc>
 		<lastmod>2021-03-01T00:57:19+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_education_f8ru.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_education_f8ru.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_education_f8ru.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_education_f8ru.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2021/03/22/get-your-first-freelancing-gig/</loc>
+		<loc>https://forgetalgebra.com/2021/03/22/get-your-first-freelancing-gig/</loc>
 		<lastmod>2021-03-22T07:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_digital_nomad_9kgl.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_digital_nomad_9kgl.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_digital_nomad_9kgl.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_digital_nomad_9kgl.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2021/04/05/what-you-can-expect-to-earn-as-a-freelancer/</loc>
+		<loc>https://forgetalgebra.com/2021/04/05/what-you-can-expect-to-earn-as-a-freelancer/</loc>
 		<lastmod>2021-04-05T07:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_wallet_aym5.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_wallet_aym5.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_wallet_aym5.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_wallet_aym5.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2021/03/15/why-im-terrified-of-debit-cards/</loc>
+		<loc>https://forgetalgebra.com/2021/03/15/why-im-terrified-of-debit-cards/</loc>
 		<lastmod>2021-03-16T01:39:17+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_security_o890.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_security_o890.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_security_o890.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_security_o890.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2021/03/29/why-i-applied-for-a-credit-card-on-my-18th-birthday/</loc>
+		<loc>https://forgetalgebra.com/2021/03/29/why-i-applied-for-a-credit-card-on-my-18th-birthday/</loc>
 		<lastmod>2021-03-31T22:45:24+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_online_wishes_dlmr.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_online_wishes_dlmr.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/undraw_online_wishes_dlmr.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/01/undraw_online_wishes_dlmr.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2021/04/12/its-time-to-stop-using-robinhood/</loc>
+		<loc>https://forgetalgebra.com/2021/04/12/its-time-to-stop-using-robinhood/</loc>
 		<lastmod>2021-04-12T23:12:56+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/04/giphy.gif</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/04/giphy.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/04/giphy.gif</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/04/giphy.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/04/image2.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/04/image2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/2021/04/19/your-strengths-arent-what-you-think/</loc>
+		<loc>https://forgetalgebra.com/2021/04/19/your-strengths-arent-what-you-think/</loc>
 		<lastmod>2021-04-19T22:55:01+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/04/undraw_coffee_break_j3of.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/04/undraw_coffee_break_j3of.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/04/undraw_coffee_break_j3of-1.png</image:loc>
+			<image:loc>https://forgetalgebra.com/wp-content/uploads/2021/04/undraw_coffee_break_j3of-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://forgetalgebra.com/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap.xml</loc>
+		<loc>https://forgetalgebra.com/post-sitemap.xml</loc>
 		<lastmod>2021-04-19T22:55:01+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
-		<lastmod>2022-10-11T17:36:09+00:00</lastmod>
+		<loc>https://forgetalgebra.com/page-sitemap.xml</loc>
+		<lastmod>2022-10-11T17:24:23+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/category-sitemap.xml</loc>
+		<loc>https://forgetalgebra.com/category-sitemap.xml</loc>
 		<lastmod>2021-04-19T22:55:01+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post_tag-sitemap.xml</loc>
+		<loc>https://forgetalgebra.com/post_tag-sitemap.xml</loc>
 		<lastmod>2021-03-31T22:45:24+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/author-sitemap.xml</loc>
+		<loc>https://forgetalgebra.com/author-sitemap.xml</loc>
 		<lastmod>2021-02-22T23:25:56+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
